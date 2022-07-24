@@ -12,5 +12,6 @@ public class MainMathUtils {
         System.out.println("Produsul numerelor din operatia 3 este: " + op3);
         System.out.println("Produsul numerelor din operatia 4 este: " + op4);
 
+
     }
 }
